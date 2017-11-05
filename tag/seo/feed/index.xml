@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SEO &#8211; বাংলায় লিখি&#8230;</title>
+	<atom:link href="https://lunaojha.github.io/tag/seo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lunaojha.github.io/</link>
+	<description>আমি বাংলায় মাতি উল্লাসে, করি বাংলায় হাহাকার</description>
+	<lastBuildDate>Sat, 04 Nov 2017 11:52:25 +0000</lastBuildDate>
+	<language>bn-BD</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.3</generator>
+
+<image>
+	<url>https://i1.wp.com/bn.sharmaluna.com/wp-content/uploads/2017/10/cropped-Screenshot-from-2017-10-03-15-47-27.png?fit=32%2C32&#038;ssl=1</url>
+	<title>SEO &#8211; বাংলায় লিখি&#8230;</title>
+	<link>https://lunaojha.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">126078794</site>	<item>
+		<title>SEO ১ঃ কি ও কেন</title>
+		<link>https://lunaojha.github.io/seo-%e0%a7%a7%e0%a6%83-%e0%a6%95%e0%a6%bf-%e0%a6%93-%e0%a6%95%e0%a7%87%e0%a6%a8-knowledge-sharing/</link>
+		<comments>https://lunaojha.github.io/seo-%e0%a7%a7%e0%a6%83-%e0%a6%95%e0%a6%bf-%e0%a6%93-%e0%a6%95%e0%a7%87%e0%a6%a8-knowledge-sharing/#respond</comments>
+		<pubDate>Mon, 06 Mar 2017 17:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[শর্মা লুনা]]></dc:creator>
+				<category><![CDATA[প্রযুক্তির নেশা]]></category>
+		<category><![CDATA[SEO]]></category>
+		<category><![CDATA[এসইও]]></category>
+		<category><![CDATA[শর্মা লুনা]]></category>
+
+		<guid isPermaLink="false"></guid>
+		<description><![CDATA[<p>বাংলাদেশে অনলাইন ভিত্তিক যে হাউজগুলো গড়ে উঠছে এবং উঠেছে তাদের বেশিরভাগেরই SEO সম্পর্কে ধারণা কম। তবে প্রায় সকলেই এর গুরুত্ব ধীরে ধীরে বুঝতে পারছেন। এই প্রতিযোগিতামূলক বিশ্বে এখন কয়েক কোটি ওয়েবসাইট। প্রায় লাখ খানেক ওয়েবসাইট নিয়মিত আপডেট হয় এবং বাজারে থাকে। হাজার খানেক ওয়েবসাইট তাদের ব্র্যান্ড ভ্যালু বা প্রোডাক্ট ভ্যালু দিয়ে বাজার দখল করে থাকে। [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://lunaojha.github.io/seo-%e0%a7%a7%e0%a6%83-%e0%a6%95%e0%a6%bf-%e0%a6%93-%e0%a6%95%e0%a7%87%e0%a6%a8-knowledge-sharing/">SEO ১ঃ কি ও কেন</a> appeared first on <a rel="nofollow" href="https://lunaojha.github.io/">বাংলায় লিখি...</a>.</p>
+]]></description>
+		<wfw:commentRss>https://lunaojha.github.io/seo-%e0%a7%a7%e0%a6%83-%e0%a6%95%e0%a6%bf-%e0%a6%93-%e0%a6%95%e0%a7%87%e0%a6%a8-knowledge-sharing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">24</post-id>	</item>
+	</channel>
+</rss>
