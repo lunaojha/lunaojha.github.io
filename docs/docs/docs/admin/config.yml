@@ -8,7 +8,7 @@ collections:
     label: "Posts"
     folder: "_posts"
     create: true
-    slug: "{{slug}}"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     file_name_template: "{{year}}-{{month}}-{{day}}-{{slug}}.md"
     format: "yaml-frontmatter"
     extension: "md"
