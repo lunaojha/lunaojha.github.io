@@ -1,7 +1,7 @@
 ---
 title: Test Post
 date: 2025-04-23T01:30:00.000Z
-permalink: test-post-2025
+permalink: /test-post-2025
 categories:
   - test
 tags:
